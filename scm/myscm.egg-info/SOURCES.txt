@@ -1,0 +1,13 @@
+pyproject.toml
+setup.py
+myscm/__init__.py
+myscm/__main__.py
+myscm/cli.py
+myscm/core.py
+myscm.egg-info/PKG-INFO
+myscm.egg-info/SOURCES.txt
+myscm.egg-info/dependency_links.txt
+myscm.egg-info/entry_points.txt
+myscm.egg-info/top_level.txt
+tests/__init__.py
+tests/test_core.py

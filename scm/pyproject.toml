@@ -1,0 +1,10 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "myscm"
+version = "0.1"
+description = "A simple version control system"
+dependencies = []
+scripts = { myscm = "myscm.cli:main" }

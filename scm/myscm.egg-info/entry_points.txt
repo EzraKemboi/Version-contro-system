@@ -1,0 +1,2 @@
+[console_scripts]
+myscm = myscm.cli:main
