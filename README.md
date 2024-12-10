@@ -1,4 +1,4 @@
-A version simple version  control system that allows you to use command similar to using git
+A simple version  control system that allows you to use commands similar to using git
 To work on your local machine you need to:
 #Add the Project to the PYTHONPATH
  Example
@@ -58,7 +58,6 @@ python -m myscm branch switch main
 python -m myscm merge feature-branch
 
 #Cloning your repo
-
 python -m myscm clone ...Path to repo
 
 
