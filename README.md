@@ -1,4 +1,5 @@
-# Version-contro-system
+# Version-control
+-system
 A simple version control system like git that allows you to perform actions similar to using  github
 
 How to use in your local machine
