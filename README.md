@@ -1,9 +1,12 @@
 A simple version  control system that allows you to use commands similar to using git
-To work on your local machine you need to:
+#To work on your local machine you need to:
+#Create and activate a virtual environment 
+#Clone the repo to your local machine inside your virtual environment 
 #Add the Project to the PYTHONPATH
- Example
 
-set PYTHONPATH=%PYTHONPATH%;C:\Users\...path to project directory
+# Open terminal/cmd and navigate to directory where you have cloned the project 
+Example;
+"set PYTHONPATH=%PYTHONPATH%;C:\Users\...path to project directory"
 # Install myscm to the current directory
 """
 Activate your virtual environment,
